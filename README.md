@@ -6,5 +6,5 @@ https://api.worldweatheronline.com/ premium/v1/past-weather.ashx?q=Spa,belgium&f
 ![matplotlib](https://user-images.githubusercontent.com/32358640/129048592-8688f365-3c94-47ed-981d-79ae892d4160.png)
 
 The orange bols mark 12pm noon\
-the darkgrey bols mark 12am night
+The grey bols mark 12am night
 
