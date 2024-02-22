@@ -1,5 +1,5 @@
 # AnalysisFlood
-Data Analysis from the Flood in July 2021
+Data Analysis from the Flood in July 2021 made with Matplotlib and data from
 
 https://api.worldweatheronline.com/ premium/v1/past-weather.ashx?q=Spa,belgium&format=json&date=2021-07-01&enddate=2021-07-31&key=HERE YOUR OWN KEY
 
